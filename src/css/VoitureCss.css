@@ -1,0 +1,40 @@
+.titreStyle{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 50px;
+}
+
+.styleselect{
+    width: 80%;
+    margin: 1%;
+    padding: 1%;
+    border:2px solid #DDDDDD ;
+}
+
+
+
+
+
+
+
+.formulairevoiture
+{
+    margin: 3%;
+    border: 3px solid #DDDDDD;
+    padding: 6%;
+}
+.styleinfovoiture{
+    display: flex;
+}
+.formGroupExampleInput{
+    background-color: #EFEFEF !important;
+    color: black;
+    width: 110%
+}
+.inputstyle{
+    margin-right: 8.5%
+;}
+.buttonVeh{
+    display: flex;
+    flex-direction: row;
+}

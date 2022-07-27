@@ -1,0 +1,128 @@
+.Mainstyle {
+    background-color: #222;
+    margin: 0;
+
+}
+
+.pstyle {
+    color: white;
+   
+}
+
+.h2 {
+    color: black;
+    padding: 2%;
+    margin-top: 10%;
+
+
+}
+.h22 {
+    color: #F8D145;
+  margin-right: 3%;
+  font-size: 50px;
+  margin-top: 1%;
+
+
+}
+
+.box {
+    
+    width: 90%;
+    margin: auto;
+    text-overflow: ellipsis;
+
+}
+
+
+.hello {
+    display: flex;
+    flex-direction: row;
+}
+
+.hello2 {
+    width: 30%;
+
+}
+
+
+.reservationposition {
+
+
+    width: 50%;
+    margin-top: 2.3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    height: 150%;
+
+
+
+}
+
+.reservationstyle {
+    background-color: #F8D145;
+    border: 1px solid black;
+    margin-left: 10%;
+    text-align: left;
+}
+
+/* .section{
+    margin-top: 20%;
+} */
+.section0 {
+    margin-top: 10%;
+
+}
+
+.section1 {
+    margin-top: 10%;
+    margin-right: 5%;
+    margin-left: 0.5%;
+}
+
+.butonreserv {
+    margin-top: 10%;
+    margin-left: 20%;
+    width: 50%;
+    color: black;
+}
+
+.carousell {
+    width: 90%;
+    margin: 7.5% 10% 10% 10%;
+}
+
+.style0 {
+    margin: 3%;
+    border: 2px solid #4F4F4F;
+   
+
+
+
+}
+
+
+.style1 {
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.clientInputStyle{
+width: 50%;
+}
+.clientlabelStyle{
+    width: 30%;
+}
+.chekStyle{
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.titreform{
+    text-align: center;
+    margin: 5%;
+}
+
+
+
+
+
